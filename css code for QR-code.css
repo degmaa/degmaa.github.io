@@ -27,9 +27,9 @@ p{
     margin-right: 20px;
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 700;
     font-style: normal;
 }
 #p{
+    font-weight: 700;
     margin-bottom: 20px;
 }
