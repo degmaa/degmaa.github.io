@@ -4,12 +4,11 @@ body{
 
 main{
     width: 300px;
-    margin-right: 50%;
-    margin-left: 41%;
+    margin-left: 39%;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px 20px;
     position:absolute;
-    top: 170px;
+    top: 200px;
 }
 img{
     top: 10px;
