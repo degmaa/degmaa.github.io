@@ -11,12 +11,12 @@ body{
     display: inline-block;
 }
 img{
-    top: 10px;
-    position: relative;
-    left:16px;
-    border-radius: 10px; 
-    width: 270px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 230px;
+    width: 230px;
+    border-radius: 10px;
 }
 p{
     color: hsl(216, 15%, 48%);
