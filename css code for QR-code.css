@@ -28,9 +28,9 @@ p{
     font-style: normal;
 }
 h1{
-    text-align:center;
+    text-align: center;
+    margin-left: 18px;
+    margin-right: 18px;
     font-weight: 700;
-    font-size:20px;
-    margin-left:18px;
-    margin-right:18px;
+    font-size: 20px;
 }
